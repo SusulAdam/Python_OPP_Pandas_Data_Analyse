@@ -13,4 +13,4 @@ Project is created with:
 *scipy.stats
 
 ## UML diagram
-<img src="./Data_analyzis_uml.jpg" alt="UML diagram"/>
+![Alt text](./Data_analyzis_uml.jpg?raw=true "UML")
