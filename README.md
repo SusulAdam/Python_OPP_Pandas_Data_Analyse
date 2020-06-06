@@ -8,9 +8,9 @@ and complex statistical methods
 Project is created with:
 * PYTHON
 ## Used libraries
-*pandas
-*functools
-*scipy.stats
+* pandas
+* functools
+* scipy.stats
 
 ## UML diagram
 ![Alt text](./Data_analyzis_uml.jpg?raw=true "UML")
