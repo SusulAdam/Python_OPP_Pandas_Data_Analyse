@@ -7,6 +7,7 @@ and complex statistical methods
 ## Technologies
 Project is created with:
 * PYTHON
+
 ## Used libraries
 * pandas
 * functools
